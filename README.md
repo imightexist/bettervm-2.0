@@ -1,2 +1,2 @@
-# bettervm-server
+# bettervm
 a server for running bettervm
