@@ -1,2 +1,2 @@
-# bettervm
-a server for running bettervm
+# bettervm 2.0 beta
+beta for bettervm 2.0
