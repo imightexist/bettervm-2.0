@@ -1,5 +1,8 @@
 {
   "port":6004,
   "folder":"http",
-  "webserver":true
+  "webserver":true,
+  "vms":[{
+    
+  }]
 }
